@@ -1,0 +1,5 @@
+1、更新EmployeeController、EmployeeService、EmployeeServiceImpl、EmployeeMapper、EmployeeMapper.xml、commoncontroller文件
+2、更新两个软件包annotation、aspect
+3、catagory软件包下放的是分类管理相关的controller、service、mapper
+4、更新菜品和菜品口味相关的接口和实现方法
+5、对上述内容进行功能测试
